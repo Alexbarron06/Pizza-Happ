@@ -2,8 +2,8 @@
 //  Ask4PizzaTests.swift
 //  Ask4PizzaTests
 //
-//  Created by Josman Pérez Expósito on 12/11/15.
-//  Copyright © 2015 personal. All rights reserved.
+//  Created by Alexandro Barron  on 09/12/15.
+//  Copyright © 2015 Auto Technology Designs. All rights reserved.
 //
 
 import XCTest
